@@ -1,6 +1,8 @@
 # HackAI-2026
 HackAI 2026 Submission Repository
 
+Video Submission Link:    https://drive.google.com/file/d/1gPZyBwzffvuZiyh7XiHsnZZG-PO8uSWE/view
+
 This project runs a Neural Network to classify 28x28 (grayscale 0-255 value) pixel drawings of numbers, based on the ylecun-minst data set. 
 It requires pretrained weights (included), which have been trained by the ylecun-minstClassification.py project.
 
